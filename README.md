@@ -1,6 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6793F7&width=435&lines=Hi%2C+everyone!+I'm+Andrey+Muhamed.;Welcome+to+my+Github+profile!+)](https://git.io/typing-svg)
 
-### GitHub Stats
+### GitHub Stats:
+
 <table>
   <a href="https://github.com/AndreMuhamed">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AndreMuhamed&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -19,7 +20,7 @@
   <img align="center" alt="Cris-Git" height="55" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
 </div><br>
 
-### Contact
+### Contact:
 
 <div> 
   <a href="https://www.youtube.com/channel/UCbOyyAqpyiYiImgaoXAwd9A" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
