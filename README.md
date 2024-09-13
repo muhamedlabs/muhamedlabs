@@ -63,7 +63,7 @@ I am a talented content creator known for my work in video, design and technolog
 ### My GitHub Stats:
 
 <div align="center">
-<a href="http://www.github.com/AndreMuhamed"><img src="https://github-readme-streak-stats.herokuapp.com/?user=AndreMuhamed&stroke=ffffff&background=000000&ring=ef4444&fire=ef4444&currStreakNum=ffffff&currStreakLabel=ef4444&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/AndreMuhamed"><img src="https://github-readme-streak-stats.herokuapp.com/?user=AndreMuhamed&stroke=ffffff&background=000000&ring=ef4444&fire=ef4444&currStreakNum=ffffff&currStreakLabel=ef4444&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" height="230" /></a>
 </div>
 
 <div align="center">
