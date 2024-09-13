@@ -79,10 +79,3 @@ I am a talented content creator known for my work in video, design and technolog
 <a href="http://www.github.com/AndreMuhamed"><img src="https://github-readme-stats.vercel.app/api?username=AndreMuhamed&show_icons=true&hide=&count_private=true&title_color=ef4444&text_color=ffffff&icon_color=ffffff&bg_color=000000&hide_border=true&show_icons=true" height="200" alt="AndreMuhamed's GitHub stats" /></a>
 <a href="https://github.com/AndreMuhamed" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreMuhamed&layout=compact&title_color=ef4444&text_color=ffffff&icon_color=ffffff&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" height="200" alt="Top Languages" /></a>
 </div>
-
-### Contact:
-
-<div> 
-  <a href="https://www.instagram.com/admirall_times/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-
-</div>
