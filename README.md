@@ -4,13 +4,12 @@
   <img height="300" width="600" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"  />
 </div>
 
-<div align="center">Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Andrey Muhamed
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Andrey Muhamed
 ======================================================================================================================================
-</div>
 
-<div align="center">Creator, Video Editor, Designer, Programmer, SS...
+Creator, Video Editor, Designer, Programmer, SS...
 -------------------------------------------
-</div>
+
 
 I am a talented content creator known for my work in video, design and technology. He also actively works with such tools as Adobe Photoshop, After Effects and Premiere Pro, creating bright projects that win the hearts of viewers. He also programs and develops Discord bots using programming languages ​​such as Python. In his projects, he constantly experiments, creating unique solutions and content that not only entertains, but also inspires others. My works are characterized by quality, and the approach to each project is characterized by professionalism and dedication. He is also actively developing his Telegram and Discord, where he unites the audience, provides current news from the world of games, technology and other interesting topics and not only that.
 
