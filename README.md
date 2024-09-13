@@ -65,7 +65,7 @@ I am a talented content creator known for my work in video, design and technolog
 <a href="http://www.github.com/AndreMuhamed"><img src="https://github-readme-streak-stats.herokuapp.com/?user=AndreMuhamed&stroke=ffffff&background=000000&ring=ef4444&fire=ef4444&currStreakNum=ffffff&currStreakLabel=ef4444&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 <a href="http://www.github.com/AndreMuhamed"><img src="https://github-readme-stats.vercel.app/api?username=AndreMuhamed&show_icons=true&hide=&count_private=true&title_color=ef4444&text_color=ffffff&icon_color=ffffff&bg_color=000000&hide_border=true&show_icons=true" alt="AndreMuhamed's GitHub stats" /></a>
-<a href="https://github.com/AndreMuhamed" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreMuhamed&langs_count=5&title_color=ef4444&text_color=ffffff&icon_color=ffffff&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/AndreMuhamed" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreMuhamed&langs_count=4&title_color=ef4444&text_color=ffffff&icon_color=ffffff&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 ### GitHub Stats:
 
