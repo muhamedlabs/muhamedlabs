@@ -10,7 +10,8 @@ I am a talented content creator known for my work in video, design and technolog
 *   🖥️  See my portfolio at [Website Muhameda](http://https://andremuhamed.nexcord.pro/language/home_en)
 *   ✉️  You can contact me at [akynsasa@gmail.com](mailto:akynsasa@gmail.com)
 *   🧠  I'm learning Python, JavaScrip, HTML/CSS, Disnake, Git/GitHub, Visual Studio Code, Photoshop, After Effects, Premiere Pro
-*   ⚡  But in fact I am a Samurai, but don't tell anyone and remember a Samurai has no goal, there is only a path...<a href="https://www.github.com/AndreMuhamed" target="_blank" rel="noreferrer"><img
+*   ⚡  But in fact I am a Samurai, but don't tell anyone and remember a Samurai has no goal, there is only a path...
+*   <a href="https://www.github.com/AndreMuhamed" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/AndreMuhamed?logo=github&style=for-the-badge&color=ffffff&labelColor=1c1917" /></a>
 
 ### Skills 
