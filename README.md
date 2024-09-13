@@ -9,7 +9,7 @@ Creator, Video Editor, Designer, Programmer, SS...
 I am a talented content creator known for my work in video, design and technology. He also actively works with such tools as Adobe Photoshop, After Effects and Premiere Pro, creating bright projects that win the hearts of viewers. He also programs and develops Discord bots using programming languages ​​such as Python. In his projects, he constantly experiments, creating unique solutions and content that not only entertains, but also inspires others. My works are characterized by quality, and the approach to each project is characterized by professionalism and dedication. He is also actively developing his Telegram and Discord, where he unites the audience, provides current news from the world of games, technology and other interesting topics and not only that.
 
 *   🌍  I'm based in Україна
-*   🖥️  See my portfolio at [Website Muhameda](http://https://andremuhamed.nexcord.pro/language/home_en)
+*   🖥️  See my portfolio at [Website Muhameda](https://andremuhamed.nexcord.pro/language/home_en)
 *   ✉️  You can contact me at [akynsasa@gmail.com](mailto:akynsasa@gmail.com)
 *   🧠  I'm learning Python, JavaScrip, HTML/CSS, Disnake, Git/GitHub, Visual Studio Code, Photoshop, After Effects, Premiere Pro
 *   ⚡  But in fact I am a Samurai, but don't tell anyone and remember a Samurai has no goal, there is only a path...
