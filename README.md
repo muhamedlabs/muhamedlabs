@@ -68,27 +68,6 @@ I am a talented content creator known for my work in video, design and technolog
 <a href="https://github.com/AndreMuhamed" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreMuhamed&layout=compact&title_color=ef4444&text_color=ffffff&icon_color=ffffff&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" height="200" alt="Top Languages" /></a>
 </div>
 
-### GitHub Stats:
-
-<table>
-  <a href="https://github.com/AndreMuhamed">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AndreMuhamed&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreMuhamed&layout=compact&langs_count=6&theme=tokyonight"/>
-</table>
-
-### Technologies and tools:
-
-<div style="display: inline_block"><br>
-  <img align="center" alt="Cris-Js" height="55" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Cris-HTML" height="55" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Cris-CSS" height="55" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">  
-  <img align="center" alt="Cris-Csharp" height="55" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Cris-VS" height="55" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
-  <img align="center" alt="Cris-Git" height="55" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-</div><br>
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?AndreMuhamed=Ashutosh00710)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 ### Contact:
 
 <div> 
