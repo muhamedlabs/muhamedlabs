@@ -19,7 +19,7 @@
   <img align="center" alt="Cris-Git" height="55" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
 </div><br>
 
-
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?AndreMuhamed=Ashutosh00710)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ### Contact:
 
