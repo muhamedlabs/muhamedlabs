@@ -19,6 +19,8 @@
   <img align="center" alt="Cris-Git" height="55" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
 </div><br>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+
 ### Contact:
 
 <div> 
