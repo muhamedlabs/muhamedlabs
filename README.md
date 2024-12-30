@@ -78,10 +78,10 @@ I am a talented content creator known for my work in video, design and technolog
 ### My GitHub Stats:
 
 <div align="center">
-<a href="http://www.github.com/muhamedlabs"><img src="https://github-readme-streak-stats.herokuapp.com/?user=AndreMuhamed&stroke=ffffff&background=000000&ring=ef4444&fire=ef4444&currStreakNum=ffffff&currStreakLabel=ef4444&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" height="230" /></a>
+<a href="http://www.github.com/muhamedlabs"><img src="https://github-readme-streak-stats.herokuapp.com/?user=muhamedlabs&stroke=ffffff&background=000000&ring=ef4444&fire=ef4444&currStreakNum=ffffff&currStreakLabel=ef4444&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" height="230" /></a>
 </div>
 
 <div align="center">
-<a href="http://www.github.com/muhamedlabs"><img src="https://github-readme-stats.vercel.app/api?username=AndreMuhamed&show_icons=true&hide=&count_private=true&title_color=ef4444&text_color=ffffff&icon_color=ffffff&bg_color=000000&hide_border=true&show_icons=true" height="200" alt="AndreMuhamed's GitHub stats" /></a>
-<a href="https://github.com/muhamedlabs" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreMuhamed&layout=compact&title_color=ef4444&text_color=ffffff&icon_color=ffffff&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" height="200" alt="Top Languages" /></a>
+<a href="http://www.github.com/muhamedlabs"><img src="https://github-readme-stats.vercel.app/api?username=muhamedlabs&show_icons=true&hide=&count_private=true&title_color=ef4444&text_color=ffffff&icon_color=ffffff&bg_color=000000&hide_border=true&show_icons=true" height="200" alt="muhamedlabs's GitHub stats" /></a>
+<a href="https://github.com/muhamedlabs" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhamedlabs&layout=compact&title_color=ef4444&text_color=ffffff&icon_color=ffffff&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" height="200" alt="Top Languages" /></a>
 </div>
