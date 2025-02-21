@@ -9,7 +9,7 @@ Creator, Video Editor, Designer, Programmer, SS...
 I am a talented content creator known for my work in video, design and technology. He also actively works with such tools as Adobe Photoshop, After Effects and Premiere Pro, creating bright projects that win the hearts of viewers. He also programs and develops Discord bots using programming languages ​​such as Python. In his projects, he constantly experiments, creating unique solutions and content that not only entertains, but also inspires others. My works are characterized by quality, and the approach to each project is characterized by professionalism and dedication. He is also actively developing his Telegram and Discord, where he unites the audience, provides current news from the world of games, technology and other interesting topics and not only that.
 
 *   🌍  I'm based in Україна
-*   🖥️  See my portfolio at [Website Muhameda](https://andremuhamed.nexcord.pro)
+*   🖥️  See my portfolio at [Website Muhameda](https://muhamedlabs.pro)
 *   ✉️  You can contact me at [akynsasa@gmail.com](mailto:akynsasa@gmail.com)
 *   🧠  I'm learning Python, JavaScrip, HTML/CSS, Disnake, Git/GitHub, Visual Studio Code, Photoshop, After Effects, Premiere Pro
 *   ⚡  But in fact I am a Samurai, but don't tell anyone and remember a Samurai has no goal, there is only a path...
@@ -31,9 +31,7 @@ I am a talented content creator known for my work in video, design and technolog
 <a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="42" height="42" alt="Google Cloud" /></a>
 <a href="https://www.blender.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/blender-colored.svg" width="42" height="42" alt="Blender" /></a>
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a>
-<a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a>  
-<a href="https://metamask.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/metamask-colored.svg" width="36" height="36" alt="MetaMask" /></a>
-<a href="https://ethereum.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ethereum-colored.svg" width="36" height="36" alt="Ethereum" /></a>  
+<a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a> 
 </p>
 
 ### Socials:                
@@ -46,14 +44,14 @@ I am a talented content creator known for my work in video, design and technolog
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="42" height="42" />
 </picture>
 </a>
-<a href="https://www.facebook.com/andrmuhamed" target="_blank" rel="noreferrer">
+<a href="https://www.facebook.com/muhamedlabs" target="_blank" rel="noreferrer">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook-dark.svg" />
 <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" />
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="42" height="42" />
 </picture>
 </a>
-<a href="https://www.github.com/AndreMuhamed" target="_blank" rel="noreferrer">
+<a href="https://github.com/muhamedlabs" target="_blank" rel="noreferrer">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
 <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" />
@@ -67,7 +65,7 @@ I am a talented content creator known for my work in video, design and technolog
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="42" height="42" />
 </picture>
 </a>
-<a href="https://www.x.com/Andremuhamed" target="_blank" rel="noreferrer">
+<a href="https://x.com/muhamedlabs" target="_blank" rel="noreferrer">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" />
 <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" />
@@ -78,7 +76,7 @@ I am a talented content creator known for my work in video, design and technolog
 ### My GitHub Stats:
 
 <div align="center">
-<a href="http://www.github.com/muhamedlabs"><img src="https://github-readme-streak-stats.herokuapp.com/?user=muhamedlabs&stroke=ffffff&background=000000&ring=ef4444&fire=ef4444&currStreakNum=ffffff&currStreakLabel=ef4444&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" height="230" /></a>
+<a href="https://github.com/muhamedlabs"><img src="https://github-readme-streak-stats.herokuapp.com/?user=muhamedlabs&stroke=ffffff&background=000000&ring=ef4444&fire=ef4444&currStreakNum=ffffff&currStreakLabel=ef4444&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" height="230" /></a>
 </div>
 
 <div align="center">
