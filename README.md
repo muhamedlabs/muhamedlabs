@@ -1,85 +1,74 @@
+## ✌️ Hello. Please call me Andrey Muhameda. I am a Creator, Video Editor, Designer, Programmer, SS...
 
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Andrey Muhamed
-======================================================================================================================================
+![CopyEN](https://github.com/user-attachments/assets/d863e434-aa27-4bcf-be8a-cc4550b845c6)
 
-Creator, Video Editor, Designer, Programmer, SS...
--------------------------------------------
+I am a **talented content creator** known for my work in **video, design and technology**. I actively work with tools like **Adobe Photoshop, After Effects, and Premiere Pro**, creating bright projects that win the hearts of viewers. 
+
+I also **program and develop Discord bots** using **Python**, constantly experimenting to create unique solutions and content that not only entertains, but also **inspires others**. My works are characterized by **quality**, and my approach to each project is defined by **professionalism and dedication**.
+
+I'm actively developing my **Telegram and Discord communities**, where I unite audiences and provide current news from the world of games, technology, and other interesting topics.
+
+## Quick Facts
+
+- 🌍 **Based in:** Ukraine
+- ⌚ **Time zone:** Europe/Kiev
+- 🖥️ **Website:** [muhamedlabs.pro](https://muhamedlabs.pro)
+- ✉️ **Email:** [akynsasa@gmail.com](mailto:akynsasa@gmail.com)
+- 🧠 **Learning:** Python, JavaScript, HTML/CSS, Git/GitHub, Adobe Suite
+- ⚡ **Secret:** I am a Samurai, but don't tell anyone... 👹
+
+---
+
+### Tech Arsenal
+
+#### Languages & Frameworks
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+#### Creative Tools
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
+![After Effects](https://img.shields.io/badge/After_Effects-9999FF?style=for-the-badge&logo=adobe-after-effects&logoColor=white)
+![Premiere Pro](https://img.shields.io/badge/Premiere_Pro-9999FF?style=for-the-badge&logo=adobe-premiere-pro&logoColor=white)
+![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
+
+#### Dev Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 
 
-I am a talented content creator known for my work in video, design and technology. He also actively works with such tools as Adobe Photoshop, After Effects and Premiere Pro, creating bright projects that win the hearts of viewers. He also programs and develops Discord bots using programming languages ​​such as Python. In his projects, he constantly experiments, creating unique solutions and content that not only entertains, but also inspires others. My works are characterized by quality, and the approach to each project is characterized by professionalism and dedication. He is also actively developing his Telegram and Discord, where he unites the audience, provides current news from the world of games, technology and other interesting topics and not only that.
+---
 
-*   🌍  I'm based in Україна
-*   🖥️  See my portfolio at [Website Muhameda](https://muhamedlabs.pro)
-*   ✉️  You can contact me at [akynsasa@gmail.com](mailto:akynsasa@gmail.com)
-*   🧠  I'm learning Python, JavaScrip, HTML/CSS, Disnake, Git/GitHub, Visual Studio Code, Photoshop, After Effects, Premiere Pro
-*   ⚡  But in fact I am a Samurai, but don't tell anyone and remember a Samurai has no goal, there is only a path...
+### Connect With Me
 
-### Skills: 
+[![Wed](https://img.shields.io/badge/Website-ff265c?style=for-the-badge&logo=google-chrome&logoColor=white)](https://muhamedlabs.pro/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akynsasa@gmail.com)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/768782555171782667)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](http://instagram.com/admirall_times)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/muhamedlabs)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/muhamedlabs)
 
-<p align="left">
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="42" height="42" alt="Git" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="42" height="42" alt="JavaScript" /></a>
-<a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a>  
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="42" height="42" alt="Python" /></a>
-<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="42" height="42" alt="HTML5" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="42" height="42" alt="CSS3" /></a>
-<a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored-dark.svg" width="42" height="42" alt="Photoshop" /></a>
-<a href="https://www.adobe.com/uk/products/aftereffects.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aftereffects-colored-dark.svg" width="42" height="42" alt="After Effects" /></a>
-<a href="https://www.adobe.com/uk/products/premiere.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/premierepro-colored-dark.svg" width="42" height="42" alt="Premiere Pro" /></a>
-<a href="https://www.adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored-dark.svg" width="42" height="42" alt="Illustrator" /></a>
-<a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="42" height="42" alt="Google Cloud" /></a>
-<a href="https://www.blender.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/blender-colored.svg" width="42" height="42" alt="Blender" /></a>
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a>
-<a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a> 
-</p>
+---
 
-### Socials:                
 
-<p align="left">
-<a href="https://discord.com/users/768782555171782667" target="_blank" rel="noreferrer">
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" />
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="42" height="42" />
-</picture>
-</a>
-<a href="https://www.facebook.com/muhamedlabs" target="_blank" rel="noreferrer">
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook-dark.svg" />
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="42" height="42" />
-</picture>
-</a>
-<a href="https://github.com/muhamedlabs" target="_blank" rel="noreferrer">
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="42" height="42" />
-</picture>
-</a>
-<a href="http://www.instagram.com/admirall_times" target="_blank" rel="noreferrer">
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg" />
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="42" height="42" />
-</picture>
-</a>
-<a href="https://x.com/muhamedlabs" target="_blank" rel="noreferrer">
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" />
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="42" height="42" />
-</picture>
-</a></p>
-
-### My GitHub Stats:
+### GitHub Analytics
 
 <div align="center">
-<a href="https://github.com/muhamedlabs"><img src="https://github-readme-streak-stats.herokuapp.com/?user=muhamedlabs&stroke=ffffff&background=000000&ring=ef4444&fire=ef4444&currStreakNum=ffffff&currStreakLabel=ef4444&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" height="230" /></a>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=muhamedlabs&show_icons=true&count_private=true&hide_border=true&title_color=ef4444&icon_color=ef4444&text_color=c9d1d9&bg_color=0d1117&include_all_commits=true" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=muhamedlabs&hide_border=true&background=0d1117&ring=ef4444&fire=ef4444&currStreakLabel=ef4444&sideLabels=c9d1d9&currStreakNum=c9d1d9&dates=c9d1d9&sideNums=c9d1d9" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-<a href="http://www.github.com/muhamedlabs"><img src="https://github-readme-stats.vercel.app/api?username=muhamedlabs&show_icons=true&hide=&count_private=true&title_color=ef4444&text_color=ffffff&icon_color=ffffff&bg_color=000000&hide_border=true&show_icons=true" height="200" alt="muhamedlabs's GitHub stats" /></a>
-<a href="https://github.com/muhamedlabs" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhamedlabs&layout=compact&title_color=ef4444&text_color=ffffff&icon_color=ffffff&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" height="200" alt="Top Languages" /></a>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhamedlabs&layout=compact&hide_border=true&title_color=ef4444&text_color=c9d1d9&bg_color=0d1117&langs_count=8" alt="Top Languages" />
+  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=muhamedlabs&bg_color=0d1117&color=c9d1d9&line=ef4444&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=muhamedlabs&theme=algolia&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies" />
 </div>
