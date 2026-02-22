@@ -60,15 +60,19 @@ I'm actively developing my **Telegram and Discord communities**, where I unite a
 ### GitHub Analytics
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=muhamedlabs&show_icons=true&count_private=true&hide_border=true&title_color=ef4444&icon_color=ef4444&text_color=c9d1d9&bg_color=0d1117&include_all_commits=true" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=muhamedlabs&hide_border=true&background=0d1117&ring=ef4444&fire=ef4444&currStreakLabel=ef4444&sideLabels=c9d1d9&currStreakNum=c9d1d9&dates=c9d1d9&sideNums=c9d1d9" alt="GitHub Streak" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=muhamedlabs&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&title_color=ef4444&icon_color=ef4444&text_color=c9d1d9&bg_color=0d1117" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=muhamedlabs&hide_border=true&background=0d1117&ring=ef4444&fire=ef4444&currStreakLabel=ef4444&sideLabels=c9d1d9&currStreakNum=c9d1d9&dates=c9d1d9&sideNums=c9d1d9" />
 </div>
 
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhamedlabs&layout=compact&hide_border=true&title_color=ef4444&text_color=c9d1d9&bg_color=0d1117&langs_count=8" alt="Top Languages" />
-  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=muhamedlabs&bg_color=0d1117&color=c9d1d9&line=ef4444&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" />
-</div>
+<br/>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=muhamedlabs&theme=algolia&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhamedlabs&layout=compact&langs_count=8&hide_border=true&title_color=ef4444&text_color=c9d1d9&bg_color=0d1117" />
+  <img width="48%" src="https://github-readme-activity-graph.vercel.app/graph?username=muhamedlabs&bg_color=0d1117&color=c9d1d9&line=ef4444&point=ffffff&area=true&hide_border=true" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img width="90%" src="https://github-profile-trophy.vercel.app/?username=muhamedlabs&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=7" />
 </div>
