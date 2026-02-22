@@ -1,6 +1,6 @@
 ## ✌️ Hello. Please call me Andrey Muhameda. I am a Creator, Video Editor, Designer, Programmer, SS...
 
-![CopyEN](https://github.com/user-attachments/assets/d863e434-aa27-4bcf-be8a-cc4550b845c6)
+<img width="2560" height="424" alt="Шабка міні Мухамеда_EN" src="https://github.com/user-attachments/assets/3cef73e5-a749-4ebe-a89f-33a48d99abe0" />
 
 I am a **talented content creator** known for my work in **video, design and technology**. I actively work with tools like **Adobe Photoshop, After Effects, and Premiere Pro**, creating bright projects that win the hearts of viewers. 
 
