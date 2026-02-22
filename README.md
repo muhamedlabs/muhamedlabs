@@ -13,7 +13,7 @@ I'm actively developing my **Telegram and Discord communities**, where I unite a
 - 🌍 **Based in:** Ukraine
 - ⌚ **Time zone:** Europe/Kiev
 - 🖥️ **Website:** [muhamedlabs.pro](https://muhamedlabs.pro)
-- ✉️ **Email:** [akynsasa@gmail.com](mailto:akynsasa@gmail.com)
+- ✉️ **Email:** [partners@muhamedlabs.pro](mailto:partners@muhamedlabs.pro)
 - 🧠 **Learning:** Python, JavaScript, HTML/CSS, Git/GitHub, Adobe Suite
 - ⚡ **Secret:** I am a Samurai, but don't tell anyone... 👹
 
